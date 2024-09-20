@@ -1,0 +1,19 @@
+E:\Новая папка (2)\GUI UP 3\bin\Debug\GUI EKZ TRBZD.exe.config
+E:\Новая папка (2)\GUI UP 3\bin\Debug\GUI EKZ TRBZD.exe
+E:\Новая папка (2)\GUI UP 3\bin\Debug\GUI EKZ TRBZD.pdb
+E:\Новая папка (2)\GUI UP 3\obj\Debug\GUI UP.csproj.AssemblyReference.cache
+E:\Новая папка (2)\GUI UP 3\obj\Debug\GUI.ClientForm.resources
+E:\Новая папка (2)\GUI UP 3\obj\Debug\GUI.Create_request_form.resources
+E:\Новая папка (2)\GUI UP 3\obj\Debug\GUI.Edit_request_form.resources
+E:\Новая папка (2)\GUI UP 3\obj\Debug\GUI.GUI_DataBase.resources
+E:\Новая папка (2)\GUI UP 3\obj\Debug\GUI.HistoryForm.resources
+E:\Новая папка (2)\GUI UP 3\obj\Debug\GUI.Login_Form_Window.resources
+E:\Новая папка (2)\GUI UP 3\obj\Debug\GUI_EKZ_TRBZD.MasterForm.Add_repair_parts.resources
+E:\Новая папка (2)\GUI UP 3\obj\Debug\GUI_EKZ_TRBZD.MasterForm.Comments_by_master.resources
+E:\Новая папка (2)\GUI UP 3\obj\Debug\GUI_EKZ_TRBZD.MasterForm.MasterForm.resources
+E:\Новая папка (2)\GUI UP 3\obj\Debug\GUI.Edit_request_form_operator.resources
+E:\Новая папка (2)\GUI UP 3\obj\Debug\GUI.OperatorForm.resources
+E:\Новая папка (2)\GUI UP 3\obj\Debug\GUI UP.csproj.GenerateResource.cache
+E:\Новая папка (2)\GUI UP 3\obj\Debug\GUI UP.csproj.CoreCompileInputs.cache
+E:\Новая папка (2)\GUI UP 3\obj\Debug\GUI EKZ TRBZD.exe
+E:\Новая папка (2)\GUI UP 3\obj\Debug\GUI EKZ TRBZD.pdb

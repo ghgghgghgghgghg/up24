@@ -1,0 +1,109 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Новая папка (2)\\ClassLibrary1\\ClassLibrary1.csproj": {}
+  },
+  "projects": {
+    "E:\\Новая папка (2)\\ClassLibrary1\\ClassLibrary1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Новая папка (2)\\ClassLibrary1\\ClassLibrary1.csproj",
+        "projectName": "ClassLibrary1",
+        "projectPath": "E:\\Новая папка (2)\\ClassLibrary1\\ClassLibrary1.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "E:\\Новая папка (2)\\ClassLibrary1\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "E:\\Новая папка (2)\\GUI UP 3\\GUI.csproj": {
+                "projectPath": "E:\\Новая папка (2)\\GUI UP 3\\GUI.csproj"
+              },
+              "E:\\Новая папка (2)\\UnitTestProject3\\UnitTestProject3.csproj": {
+                "projectPath": "E:\\Новая папка (2)\\UnitTestProject3\\UnitTestProject3.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Новая папка (2)\\GUI UP 3\\GUI.csproj": {
+      "restore": {
+        "projectUniqueName": "E:\\Новая папка (2)\\GUI UP 3\\GUI.csproj",
+        "projectName": "GUI",
+        "projectPath": "E:\\Новая папка (2)\\GUI UP 3\\GUI.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "E:\\Новая папка (2)\\UnitTestProject3\\UnitTestProject3.csproj": {
+      "restore": {
+        "projectUniqueName": "E:\\Новая папка (2)\\UnitTestProject3\\UnitTestProject3.csproj",
+        "projectName": "UnitTestProject3",
+        "projectPath": "E:\\Новая папка (2)\\UnitTestProject3\\UnitTestProject3.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {
+              "E:\\Новая папка (2)\\GUI UP 3\\GUI.csproj": {
+                "projectPath": "E:\\Новая папка (2)\\GUI UP 3\\GUI.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    }
+  }
+}

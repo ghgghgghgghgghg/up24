@@ -1,0 +1,16 @@
+E:\Новая папка (2)\ClassLibrary1\bin\Debug\net8.0\ClassLibrary1.deps.json
+E:\Новая папка (2)\ClassLibrary1\bin\Debug\net8.0\ClassLibrary1.dll
+E:\Новая папка (2)\ClassLibrary1\bin\Debug\net8.0\ClassLibrary1.pdb
+E:\Новая папка (2)\ClassLibrary1\bin\Debug\net8.0\GUI EKZ TRBZD.exe
+E:\Новая папка (2)\ClassLibrary1\bin\Debug\net8.0\GUI EKZ TRBZD.pdb
+E:\Новая папка (2)\ClassLibrary1\bin\Debug\net8.0\GUI EKZ TRBZD.exe.config
+E:\Новая папка (2)\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.csproj.AssemblyReference.cache
+E:\Новая папка (2)\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Новая папка (2)\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.AssemblyInfoInputs.cache
+E:\Новая папка (2)\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.AssemblyInfo.cs
+E:\Новая папка (2)\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.csproj.CoreCompileInputs.cache
+E:\Новая папка (2)\ClassLibrary1\obj\Debug\net8.0\ClassLib.E736BF3C.Up2Date
+E:\Новая папка (2)\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.dll
+E:\Новая папка (2)\ClassLibrary1\obj\Debug\net8.0\refint\ClassLibrary1.dll
+E:\Новая папка (2)\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.pdb
+E:\Новая папка (2)\ClassLibrary1\obj\Debug\net8.0\ref\ClassLibrary1.dll

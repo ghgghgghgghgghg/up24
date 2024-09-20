@@ -1,0 +1,11 @@
+E:\Новая папка (2)\ClassLibrary2\bin\Debug\net8.0\ClassLibrary2.deps.json
+E:\Новая папка (2)\ClassLibrary2\bin\Debug\net8.0\ClassLibrary2.dll
+E:\Новая папка (2)\ClassLibrary2\bin\Debug\net8.0\ClassLibrary2.pdb
+E:\Новая папка (2)\ClassLibrary2\obj\Debug\net8.0\ClassLibrary2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Новая папка (2)\ClassLibrary2\obj\Debug\net8.0\ClassLibrary2.AssemblyInfoInputs.cache
+E:\Новая папка (2)\ClassLibrary2\obj\Debug\net8.0\ClassLibrary2.AssemblyInfo.cs
+E:\Новая папка (2)\ClassLibrary2\obj\Debug\net8.0\ClassLibrary2.csproj.CoreCompileInputs.cache
+E:\Новая папка (2)\ClassLibrary2\obj\Debug\net8.0\ClassLibrary2.dll
+E:\Новая папка (2)\ClassLibrary2\obj\Debug\net8.0\refint\ClassLibrary2.dll
+E:\Новая папка (2)\ClassLibrary2\obj\Debug\net8.0\ClassLibrary2.pdb
+E:\Новая папка (2)\ClassLibrary2\obj\Debug\net8.0\ref\ClassLibrary2.dll
